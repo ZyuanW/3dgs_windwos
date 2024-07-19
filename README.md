@@ -36,4 +36,7 @@ This script is basically use sequences frames as input data. If you already have
 ## Visualizing point clouds
 modify the `model_path` in `3dgs_windwos/SIBR_viewer.py`, the `model_path`should be the output_path that contain `point_cloud folder, cameras.json, cfg_args and input.ply`
 
+### run SIBR_viewer.py
+`python SIBR_viewer.py`
+
 
