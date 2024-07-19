@@ -33,5 +33,7 @@ It will automatically start training, and will save at 7k steps and end at 30k s
 ### train_images.py
 This script is basically use sequences frames as input data. If you already have sequences frames, use this.
 
+## Visualizing point clouds
+modify the `model_path` in `3dgs_windwos/SIBR_viewer.py`, the `model_path`should be the output_path that contain `point_cloud folder, cameras.json, cfg_args and input.ply`
 
 
